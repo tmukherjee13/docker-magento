@@ -41,3 +41,6 @@ CMD ["--port 27017"]
 
 # Set default container command
 ENTRYPOINT usr/bin/mongod
+
+
+##################### SERVICES END #####################
